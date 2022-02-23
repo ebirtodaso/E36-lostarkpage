@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+}
+
+div.ui.topnav.inverted.stackable.borderless.menu
+{
+  background-color: #141312;
+  box-shadow: none;
+  border: none;
+}
+
+div.ui.simple.dropdown.item.topdropdown,
+div.ui.simple.dropdown.item.topdropdown .menu
+{
+  background-color: #141312;
+  box-shadow: none;
+  border: none;
+}
+.ui.yellow.button.topbutton {
+  border-radius: 0;
+}
+.ui.inverted.mid.segment {
+  background-color: black;
+  padding-bottom: 0;
+}
+
+.ui.extra.huge.centered.header {
+  font-size: 60px;
+  color: white;
+  font-weight: lighter;
+  font-family: "Book Antiqua";
+}
+
+.ui.lower.huge.centered.header {
+  color: white;
+  font-weight: lighter;
+  font-family: "Book Antiqua";
+}
+
+.ui.footer.segment {
+  background-color: #141312;
+}
+
+.footertotop {
+  background: url("img/lostarkicon.png") no-repeat center;
+  background-size: 55px;
+  height: 100px;
+}
+
+.backtotop {
+  padding-top: 40px;
+}
+
+.logofooter {
+  padding-top: 15px;
+  padding-left: 20px;
+}
+
+.empty {
+  height: 100px;
+}
+
+.ui.dropdown.topdropdown .menu {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-color: grey;
+}
+
